@@ -1,0 +1,36 @@
+package entities;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class Peaks {
+	@Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
+	
+	// longitude   | lattitude | owned   
+	private String name;
+	
+	private int elevation;
+	
+	private String difficulty;
+	
+	private String range;
+	
+	private int miles;
+	
+	private int gain;
+	
+	private double longitude;
+	
+	private double lattitude;
+	
+	private boolean owned;
+	
+	public Peaks() {}
+	
+
+}

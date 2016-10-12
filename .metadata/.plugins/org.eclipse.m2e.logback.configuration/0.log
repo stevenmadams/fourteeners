@@ -1,0 +1,163 @@
+2016-10-12 14:50:35,431 [Worker-184] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FourteenerJPA:FourteenerJPA:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/pom.xml.
+2016-10-12 14:50:36,721 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:50:36,737 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:50:36,769 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:50:36,770 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:50:36,805 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FourteenerJPA/src
+2016-10-12 14:50:36,806 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /FourteenerJPA/src overlaps with sources folder /FourteenerJPA/src
+2016-10-12 14:50:36,808 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FourteenerJPA/src/test/java because it overlaps with /FourteenerJPA/src
+2016-10-12 14:50:37,006 [Worker-184] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-12 14:50:37,520 [Worker-184] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FourteenerJPA:FourteenerJPA:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/pom.xml.
+2016-10-12 14:50:37,914 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FourteenerJPA/src
+2016-10-12 14:50:37,915 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /FourteenerJPA/src overlaps with sources folder /FourteenerJPA/src
+2016-10-12 14:50:37,963 [Worker-184] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FourteenerJPA/src/test/java because it overlaps with /FourteenerJPA/src
+2016-10-12 14:50:38,356 [Worker-184] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-10-12 14:50:38,810 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:50:38,812 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:50:38,825 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:50:38,827 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:52:05,818 [Worker-188] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FourteenerJPA:FourteenerJPA:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/pom.xml.
+2016-10-12 14:52:06,525 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:52:06,532 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-12 14:52:06,535 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:52:06,536 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:52:07,348 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:52:07,355 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:52:07,380 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:52:07,380 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:57:29,550 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:57:29,572 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:57:29,579 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:57:29,580 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:57:53,469 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:57:53,472 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:57:53,474 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:57:53,475 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:59:05,991 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:05,992 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:59:05,994 [Worker-183] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:05,995 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:59:37,198 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:37,200 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:59:37,202 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:37,203 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 14:59:55,987 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:55,988 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 14:59:55,990 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 14:59:55,992 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 15:00:13,329 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:00:13,342 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 15:00:13,345 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:00:13,346 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 15:01:10,315 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:01:10,317 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 15:01:10,319 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:01:10,320 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 15:01:37,864 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:01:37,866 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-12 15:01:37,868 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:01:37,868 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerJPA/src/test/resources
+2016-10-12 15:12:08,815 [Worker-197] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FourteenerREST:FourteenerREST:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/pom.xml.
+2016-10-12 15:12:11,491 [Worker-197] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FourteenerREST/src
+2016-10-12 15:12:11,492 [Worker-197] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FourteenerREST/src/test/java because it overlaps with /FourteenerREST/src
+2016-10-12 15:12:11,734 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:11,737 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:12:11,738 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:11,739 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:12:12,334 [Worker-197] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-10-12 15:12:12,386 [Worker-197] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FourteenerREST:FourteenerREST:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/pom.xml.
+2016-10-12 15:12:13,596 [Worker-197] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FourteenerREST/src
+2016-10-12 15:12:13,596 [Worker-197] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FourteenerREST/src/test/java because it overlaps with /FourteenerREST/src
+2016-10-12 15:12:13,856 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:13,856 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:12:13,859 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:13,859 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:12:13,860 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FourteenerREST
+2016-10-12 15:12:13,861 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FourteenerREST
+2016-10-12 15:12:13,886 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-10-12 15:12:13,893 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:14,297 [Worker-197] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FourteenerREST
+2016-10-12 15:12:14,327 [Worker-197] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-10-12 15:12:14,933 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:14,933 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:12:14,935 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:14,935 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:12:14,936 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FourteenerREST
+2016-10-12 15:12:14,936 [Worker-199] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FourteenerREST
+2016-10-12 15:12:14,945 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:32,434 [Worker-194] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FourteenerREST:FourteenerREST:0.0.1-SNAPSHOT @ /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/pom.xml.
+2016-10-12 15:12:34,000 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:34,002 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:12:34,004 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:12:34,006 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:12:34,006 [Worker-194] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FourteenerREST
+2016-10-12 15:12:34,006 [Worker-194] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FourteenerREST
+2016-10-12 15:12:34,017 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:00,760 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:00,774 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:13:00,776 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:00,777 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:13:32,059 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:32,080 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:13:32,082 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:32,083 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:13:48,742 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:48,745 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:13:48,747 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:13:48,747 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:14:14,644 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:14,645 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:14:14,646 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:14,647 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:14:35,976 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:35,977 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:14:35,980 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:35,980 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:14:55,128 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:55,131 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:14:55,132 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:14:55,134 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:15:04,327 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:04,330 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:15:04,331 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:04,332 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:15:13,323 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:13,324 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:15:13,325 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:13,326 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:15:54,068 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:54,069 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:15:54,071 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:15:54,071 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:08,857 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:08,858 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:08,859 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:08,860 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:10,026 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:10,027 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:10,028 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:10,029 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:23,984 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:23,985 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:23,988 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:23,989 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:25,041 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:25,042 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:25,043 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:25,044 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:26,086 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:26,095 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:26,097 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:26,108 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:32,681 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:32,683 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:32,684 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:32,685 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:41,750 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:41,751 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:41,752 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:41,753 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
+2016-10-12 15:16:59,975 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:59,976 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/main/resources
+2016-10-12 15:16:59,977 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-10-12 15:16:59,982 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/stevenadams/SD/JQuery/Fourteener/FourteenerREST/src/test/resources
